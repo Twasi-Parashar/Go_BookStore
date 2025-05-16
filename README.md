@@ -11,10 +11,3 @@ A simple command-line based book store management system built in Go. This proje
 
 - **Go** (Golang): The programming language used for building this system.
 - **JSON**: Data is stored and managed in a JSON format to persist books' details.
-
-## Installation
-
-1. **Clone this repository**:
-   ```bash
-   git clone https://github.com/your-username/book-store-system.git
-   cd book-store-system
